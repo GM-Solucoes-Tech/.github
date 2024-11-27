@@ -1,13 +1,13 @@
 
-# LM Soluções
+# GM Soluções Tech
 
-**Bem-vindo à LM Soluções!**
+**Bem-vindo à GM Soluções Tech!**
 
 Somos uma empresa de tecnologia dedicada a criar soluções simples e fáceis de utilizar, focadas em otimizar processos e melhorar a experiência do usuário. Nosso objetivo é facilitar o acesso à tecnologia e torná-la uma ferramenta eficiente e intuitiva para empresas e pessoas ao redor do mundo.
 
 ## O que fazemos
 
-Na LM Soluções, desenvolvemos uma ampla gama de produtos e serviços, incluindo:
+Na GM Soluções Tech, desenvolvemos uma ampla gama de produtos e serviços, incluindo:
 
 - **Desenvolvimento de software personalizado**
 - **Automação de processos empresariais**
@@ -30,7 +30,7 @@ Aqui no GitHub, você encontrará alguns dos nossos projetos abertos, que visam 
 
 Quer saber mais sobre nós ou discutir uma ideia? Entre em contato conosco:
 
-- **Website:** [lmsolucoes.com](https://lmsolucoes.com)
-- **Email:** contato@lmsolucoes.com
+- **Website:** [gmsolucoestech.com.br](https://gmsolucoestech.com.br)
+- **Email:** contato@gmsolucoestech.com.br
 
 Estamos aqui para ajudar!
